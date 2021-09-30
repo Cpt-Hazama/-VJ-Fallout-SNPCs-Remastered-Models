@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/fallout/armor/enclavepowerarmor/enclavehelmet01"
+	"$bumpmap" 	"models/fallout/armor/enclavepowerarmor/enclavehelmet01_n"
+	"$selfillum" "1"
+	"$surfaceprop" 	"metal"
+	"$phong" 1
+	"$phongboost" 2
+	"$phongexponent" 30
+	"$phongtint" "[0.75 0.75 1]"
+	"$phongfresnelranges" "[.1 .5 1]"
+
+	"$model" 1
+
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "0.15"
+}
